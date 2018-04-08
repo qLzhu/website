@@ -8,7 +8,6 @@
 **注意：**部分网站可能需要翻墙才能浏览，且大多数网站语言为英文
 
 
-<br />
 首先介绍下几种免费翻墙的方式
 
 **1. 修改 [hosts](https://coding.net/u/scaffrey/p/hosts/git) 文件**
@@ -32,14 +31,12 @@
 此插件是360团队开发的，可以免费使用24小时，如果要长久使用的话，需要把浏览器主页设置为它们规定的主页，否则无法使用。且此插件只可以免费访问谷歌搜索、Google邮箱和Chrome商城
 
 
-<br />
 ## 目录
 
-[前端相关资料](https://github.com/qLzhu/website/blob/master/front_end.md)
-[设计相关资料](https://github.com/qLzhu/website/blob/master/design.md)
+* [前端相关资料](https://github.com/qLzhu/website/blob/master/front_end.md)
+* [设计相关资料](https://github.com/qLzhu/website/blob/master/design.md)
 
 
-<br />
 ## 执照
 
 该库下的所有文档和代码都根据 [MIT许可协议](https://github.com/qLzhu/website/blob/master/LICENSE) 发布
