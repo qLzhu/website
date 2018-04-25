@@ -3,36 +3,42 @@
 ===
 
 * [文档](#文档)
+* [在线教程](#在线教程)
 * [社区](#社区)
 * [博客](#博客)
 * [欣赏](#欣赏)
 * [工具](#工具)
-    - [开发环境搭配](#开发环境搭配)
     - [IDE](#ide)
     - [在线IDE](#在线ide)
-    - [CSS预处理器](#CSS预处理器)
+    - [CSS预处理器](#css预处理器)
     - [构建工具](#构建工具)
-    - [Hack](#hack)
+    - [包管理器](#包管理器)
+    - [辅助工具](#辅助工具)
 * [在线帮助工具](#在线帮助工具)
     - [属性查询](#属性查询)
     - [CDN](#cdn)
     - [占位符](#占位符)
-    - [CSS相关工具](#CSS相关工具)
+    - [CSS相关工具](#css相关工具)
+    - [浏览器测试](#浏览器测试)
+    - [浏览器 Hack](#浏览器-hack)
 * [框架库](#框架库)
-    - [UI 框架](#ui_框架)
-    - [CSS 字体图标](#css_字体图标)
-    - [CSS 动画库](#css_动画库)
-    - [CSS 编写的设备](#css_编写的设备)
+    - [UI 框架](#ui-框架)
+    - [CSS 字体图标](#css-字体图标)
+    - [CSS 动画库](#css-动画库)
+    - [CSS 编写的设备](#css-编写的设备)
 * [自助建站平台](#自助建站平台)
 
 
 ## 文档
-* [W3Cschools.com](https://www.quanzhanketang.com/default.html) W3Cschools网站的镜像
+* [W3Cschools.com](https://www.quanzhanketang.com/default.html) 中文镜像
 * [MDN](https://developer.mozilla.org/zh-CN/) FireFox的，目前微软公司的MSDN平台的资料也正往这方面转移
-* [MSDN](https://msdn.microsoft.com/zh-cn/dn308572) 微软公司的技术开发平台
+* [MSDN](https://msdn.microsoft.com/zh-cn/dn308572)
 * [菜鸟教程](http://www.runoob.com/) 国内的文档更新过于陈旧
-* [htmlreference](https://htmlreference.io/) 国外牛人开发的html标签手册，按照字母顺序排列
+* [htmlreference](https://htmlreference.io/)
 * [cssreference](https://cssreference.io/)
+* [devdocs](http://devdocs.io/) 各种编程文档
+* [cheatsheets](https://devhints.io/)
+* [Css Values](https://cssvalues.com/)
 * [css3参考手册](http://www.css88.com/book/css/)
 * [Chrome 开发者工具](http://www.css88.com/doc/chrome-devtools/)
 * [Webpack](https://doc.webpack-china.org/guides/getting-started/)
@@ -41,6 +47,10 @@
 * [Git Scm](https://git-scm.com/book/zh/v2)
 * [Pro Git](https://progit.bootcss.com/)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/index.html)
+
+## 在线教程
+* [scrimba](https://scrimba.com/)
+* [慕课网](https://www.imooc.com/)
 
 ## 社区
 * [掘金](https://juejin.im/)
@@ -61,22 +71,10 @@
 * [CSSWinner](http://www.csswinner.com/)
 * [CSSDesignAwards](https://www.cssdesignawards.com/)
 * [Tympanus](https://tympanus.net/codrops/category/tutorials/)
+* [Awwwards](https://www.awwwards.com/)
 * [thecodeplayer](http://thecodeplayer.com/)
 
 ## 工具
-###### 开发环境搭配
-* [node.js](https://nodejs.org/zh-cn/download/)
-* [git](https://git-scm.com/downloads)
-* [npm](https://www.npmjs.com/)
-* [XAMPP](https://www.apachefriends.org/zh_cn/index.html) PHP开发环境集成包，
-*  如果你使用的是MacOS系统且又用不到`MYSQL`数据库的话，可直接使用系统自带的`PHP`和`Apache`
-* [HomeBrew](https://brew.sh/index_zh-cn.html)
-* [HomeBrew Cask](https://caskroom.github.io/)
-* [Homebrew Formulas](http://brewformulas.org/) 搜索 brew 插件的网站
-* [Aria2](https://aria2.github.io/) 是一个轻量级的多协议和多源命令行下载工具
-* [BaiduExporter](https://github.com/acgotaku/BaiduExporter) Chrome浏览器插件，结合 Aria2 使用解决百度云的下载限速问题
-* [CheatSheet](https://www.mediaatelier.com/CheatSheet/) 苹果系统一个显示当前程序快捷键列表的软件。
-* 调出此软件长按`Command`键，不过在使用之前需要在“系统偏好设置”-“安全性与隐私”-“隐私”-“辅助功能”-“CheatSheet.app”前面打上勾
 ###### IDE
 * [Sublime Text](http://www.sublimetext.com/dev)
 * [Sublime Text 注册码](https://github.com/qLzhu/website/blob/master/sublime_key.md)
@@ -92,6 +90,7 @@
 * [codepen](https://codepen.io/)
 * [jsrun](http://jsrun.net)
 * [jsbin](http://jsbin.com/) 主要用于帮助测试JS和CSS代码片段
+* [Json.cn](http://www.json.cn/) Json在线解析
 ###### CSS预处理器
 * [Sass](https://www.sasscss.com/)
 * [Less](https://less.bootcss.com/)
@@ -105,16 +104,33 @@
 * [Fis3](http://fis.baidu.com/)
 * [EJS](https://ejs.bootcss.com/) 利用普通的JavaScript代码生成HTML页面
 * [Babel](https://babeljs.cn/) JavaScript 编译器，通过语法转换器支持最新版本的 JavaScript 语法
-###### Hack 
-* [Browser Hacks](http://browserhacks.com/)
+###### 包管理器
+* [npm](https://www.npmjs.com/)
+* [cnpm](https://npm.taobao.org/)
+* [gulpfile文件生成器](http://quenchjs.com/)
+* [bower](https://bower.io/)
+* [yarn](https://yarnpkg.com/zh-Hans/)
+* [HomeBrew](https://brew.sh/index_zh-cn.html)
+* [HomeBrew Cask](https://caskroom.github.io/)
+* [Homebrew Formulas](http://brewformulas.org/) 搜索 brew 插件的网站
+###### 辅助工具
+* [node.js](https://nodejs.org/zh-cn/download/)
+* [git](https://git-scm.com/downloads)
+* [XAMPP](https://www.apachefriends.org/zh_cn/index.html) PHP开发环境集成包，
+*  如果你使用的是MacOS系统且又用不到`MYSQL`数据库的话，可直接使用系统自带的`PHP`和`Apache`
+* [Aria2](https://aria2.github.io/) 是一个轻量级的多协议和多源命令行下载工具
+* [BaiduExporter](https://github.com/acgotaku/BaiduExporter) Chrome浏览器插件，结合 Aria2 使用解决百度云的下载限速问题
+* [CheatSheet](https://www.mediaatelier.com/CheatSheet/) 苹果系统一个显示当前程序快捷键列表的软件。
+* 调出此软件长按`Command`键，不过在使用之前需要在“系统偏好设置”-“安全性与隐私”-“隐私”-“辅助功能”-“CheatSheet.app”前面打上勾
+* [asciinema](https://asciinema.org/) 终端录制工具
 
 ## 在线帮助工具
 ###### 属性查询
-* [devdocs](http://devdocs.io/) 各种编程文档
-* [Css Values](https://cssvalues.com/)
 * [CSS点击图表](https://css3clickchart.com/)
 * [Tympanus Css](https://tympanus.net/codrops/css_reference/)
+* [CSS4选择器](https://css4-selectors.com/selectors/)
 * [Caniuse](https://caniuse.com/) 属性兼容性查询网站
+* [compatibility table](https://kangax.github.io/compat-table/es5/) 属性兼容性查询网站
 ###### CDN
 * [BootCDN](http://www.bootcdn.cn/)
 * [百度静态资源库](http://cdn.code.baidu.com/)
@@ -130,10 +146,16 @@
 * [按钮生成器](https://www.bestcssbuttongenerator.com/)
 * [CSS3样式生成器](http://www.css88.com/tool/css3Preview/)
 * [Css3Maker](http://www.css3maker.com/)
-* [clip-path 生成器](http://www.css88.com/tool/css-clip-path/)
-###### 浏览器
+* [clip-path生成器](http://www.css88.com/tool/css-clip-path/)
+* [cubic-bezier贝塞尔曲线生成器](http://cubic-bezier.com/)
+* [CSS三角生成器](https://www.lugolabs.com/caret)
+* [CSS实体三角形生成器](http://apps.eky.hk/css-triangle-generator/zh-hant)
+* [CSS动画帧数计算器](http://tid.tenpay.com/labs/css3_keyframes_calculator.html)
+###### 浏览器测试
 * [Browser Sandbox&trade](https://turbo.net/browsers)
 * [Browsershot](http://browsershots.org/)
+###### 浏览器 Hack 
+* [Browser Hacks](http://browserhacks.com/)
 
 ## 框架库
 ###### UI 框架
