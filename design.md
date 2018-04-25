@@ -22,7 +22,7 @@
     - [图片特效效果](#图片特效效果)
     - [短视频](#短视频)
     - [数据图表](#数据图表)
-    - [海报·Banner·名片等](#海报·banner·名片等)
+    - [海报-Banner-名片等](#海报-banner-名片等)
     - [H5](#h5)
     - [展示效果](#设计展示效果)
 
@@ -193,7 +193,7 @@
 * [Promo](https://slide.ly/promo?force-hp=1)
 ###### 数据图表
 * [chartico](http://www.chartico.com/)
-###### 海报·Banner·名片等
+###### 海报-Banner-名片等
 * [创客贴](https://www.chuangkit.com/)
 * [搞定设计](https://www.gaoding.com/)
 * [腾讯瓦斯平台·canvas](https://canvas.qq.com/index)
