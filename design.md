@@ -61,9 +61,9 @@
 * [cutterman](http://www.cutterman.cn/zh/cutterman) PS切图插件
 ###### 思维脑图
 * [XMind](http://www.xmindchina.net/)
+* [百度脑图](http://naotu.baidu.com/)
 ###### 原型
 * [墨刀](https://modao.cc/)
-* [百度脑图](http://naotu.baidu.com/)
 ###### 字体
 * [whatfontis](http://www.whatfontis.com/) 在线图片字体识别工具
 * [求字体](http://www.qiuziti.com/)
