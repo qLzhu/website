@@ -37,6 +37,7 @@
 * [htmlreference](https://htmlreference.io/)
 * [cssreference](https://cssreference.io/)
 * [devdocs](http://devdocs.io/) 各种编程文档
+* [中文版的Devdocs](https://cloud.tencent.com/developer/doc/1018)
 * [cheatsheets](https://devhints.io/)
 * [Css Values](https://cssvalues.com/)
 * [css3参考手册](http://www.css88.com/book/css/)
