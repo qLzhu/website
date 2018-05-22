@@ -1,4 +1,3 @@
-
 目录
 ===
 
@@ -27,18 +26,21 @@
     - [展示效果](#设计展示效果)
 
 
-## 教程
+教程
+---
 * [51自学网](http://www.51zxw.net/list.aspx?cid=8)
 * [高高手](http://www.gogoup.com/)
 * [学UI网](http://www.xueui.cn/)
 
-## 欣赏
+欣赏
+---
 * [Siiimple](https://siiimple.com/) 专门收集极简主义网站设计
 * [Reeoo](http://reeoo.com/) 也是一个专门收集优秀网页设计网站，可以根据颜色的主题筛选
 * [Land-book](https://land-book.com/) 专门收集了优秀的 landing page 页面
 * [Calltoidea](http://www.calltoidea.com/) 以类别为线索收集各种设计的网站
 
-## 社区
+社区
+---
 * [Behance](https://www.behance.net/)
 * [Dribbble](https://dribbble.com/)
 * [站酷](http://www.zcool.com.cn/)
@@ -48,7 +50,8 @@
 * [优优教程网](https://uiiiuiii.com/)
 * [UeDna](http://www.uedna.com/)
 
-## 工具
+工具
+---
 * [Adobe CC 2017 全家桶](https://pan.baidu.com/s/1nACbflv21BXDLb-VzmNmmw) 密码:cq2f
 * [Adobe CC 2018 全家桶](https://pan.baidu.com/s/1vDy09aASI4A2U0UfmUKxwA) 密码:mtax
 * [Sketch](http://www.sketchcn.com/)
@@ -74,7 +77,8 @@
 * [白板](https://bearyboard.com/) 上传设计图，团队成员可以点击任何位置讨论
 * [redpen](https://redpen.io/)
 
-## 配色
+配色
+---
 ###### 单色
 * [OC-](https://yeun.github.io/open-color/)
 * [Colourco](https://colourco.de/)
@@ -94,7 +98,8 @@
 * [Webgradients](https://webgradients.com/)
 * [Grabient](https://www.grabient.com/)
 
-## 素材
+素材
+---
 ###### 图片
 * [Sw](http://streetwill.co/)
 * [Movest](http://moveast.me/)
@@ -173,7 +178,8 @@
 * [模版世界](http://www.templatesy.com/)
 * [HTML5 templates](https://html5up.net/)
 
-## 在线设计
+在线设计
+---
 ###### logo
 * [小智logo](https://xzlogo.com/)
 * [logaster](https://www.logaster.cn/?_ga=2.39753059.171449524.1522157240-281472620.1522157240)
